@@ -149,14 +149,14 @@ This dashboard enables:
 
 ## Dashboard Preview
 
-### Overview
-![Dashboard Overview](images/Overview.png)
+### Overview  
+[![Overview](images/Overview.png)](images/Overview.png)
 
-### KPI Trends
-![KPI Trends](images/Market_Insights.png)
+### Market Insights  
+[![Market Insights](images/Market_Insights.png)](images/Market_Insights.png)
 
-### Market Analysis
-![Market Analysis](images/Channel&Consumer_Impact.png)
+### Channel & Consumer Impact  
+[![Channel Impact](images/Channel_Consumer_Impact.png)](images/Channel_Consumer_Impact.png)
 
 ---
 
